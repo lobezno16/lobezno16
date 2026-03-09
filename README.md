@@ -14,15 +14,13 @@
 
 ## 🧠 About Me
 
-```python
-pollock = {
-    "username":   "lobezno16",
-    "status":     "noob on the grind 💪",
-    "interests":  ["ML / AI / GenAI", "Web3 / Blockchain", "Backend", "Frontend"],
-    "currently":  "levelling up every single day",
-    "vibe":       "learn → build → break → repeat 🔁",
-}
-```
+- 🔥 **Grinding through ML, AI & GenAI** — one model at a time
+- ⛓️ **Diving deep into Web3 & Blockchain** — the future is decentralized
+- 🖥️ **Backend & Systems** are my playground — low-level stuff hits different
+- 🎨 **Frontend** when the vibe calls for it
+- 📚 **Obsessed with learning** — DSA, Math, CS fundamentals, all of it
+- 🚀 **Self-proclaimed noob** but levelling up every single day
+- ⚡ **Motto:** `learn → build → break → repeat`
 
 ---
 
