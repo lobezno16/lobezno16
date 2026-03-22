@@ -11,10 +11,10 @@
 </div>
 
 ---
+<img align="right" width="220px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="35">&nbsp; ***About Me***
 
-<img align="right" width="170px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
 - 📚 **B.Tech @ SRMIST, Kattankulathur**
 - 🔥 **Grinding through ML, AI & GenAI**
