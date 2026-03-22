@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F953C6&center=true&vCenter=true&width=600&lines=ML+%7C+AI+%7C+GenAI+enthusiast+🤖;Web3+%7C+Blockchain+explorer+⛓️;Cybersecurity+defender+🛡️;Quantum+Computing+explorer+⚛️;Backend+%26+Systems+nerd+🖥️;Lifelong+learner+📚)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F953C6&center=true&vCenter=true&width=600&lines=ML+%7C+AI+%7C+GenAI+enthusiast;Web3+%7C+Blockchain+explorer;Cybersecurity+defender;Quantum+Computing+explorer;Backend+%26+Systems+nerd;Lifelong+learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -16,14 +16,9 @@
 
 <img align="right" width="220px" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
 
-- 🔥 **Grinding through ML, AI & GenAI** — one model at a time
-- ⛓️ **Diving deep into Web3 & Blockchain** — the future is decentralized
-- 🛡️ **Cybersecurity** — just getting started, breaking things *ethically*
-- ⚛️ **Quantum Computing** — curious about the next frontier
-- 🖥️ **Backend & Systems** are my playground — low-level stuff hits different
-- 🎨 **Frontend** when the vibe calls for it
-- 📚 **Obsessed with learning** — DSA, Math, CS fundamentals, all of it
-- 🚀 **Self-proclaimed noob** but levelling up every single day
+- 📚 **B.Tech @ SRMIST, Kattankulathur**
+- 🔥 **Grinding through ML, AI & GenAI**
+- 🛡️ **Diving deep into Web3 & Cybersecurity**
 - ⚡ **Motto:** `learn → build → break → repeat`
 
 ---
